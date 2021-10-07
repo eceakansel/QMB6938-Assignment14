@@ -1,0 +1,16 @@
+unemployment
+https://fred.stlouisfed.org/release/tables?rid=116&eid=253855
+
+age
+https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-detail.html
+
+household size
+https://www.indexmundi.com/facts/united-states/quick-facts/florida/average-household-size#table
+
+salary
+https://www.daytonastate.edu/faculty-and-staff/institutional-research/files/volusia-flagler/annual-average-wages-by-county.pdf
+
+healthcare
+https://www.countyhealthrankings.org/sites/default/files/media/document/2020%20County%20Health%20Rankings%20Florida%20Data%20-%20v1_0.xlsx
+
+
